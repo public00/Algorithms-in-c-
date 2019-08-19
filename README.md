@@ -1,1 +1,1 @@
-# Algorithms-in-c-
+# Algorithms in c#
